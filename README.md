@@ -13,12 +13,8 @@
 ## 一人で読む場合
 1. `root/本/chapter_x.md`を作成する
 2. メモる
-3. commit messageは`done chapter_x` or `wip chapter_x`
-4. pushする
 
 ## 複数人でやる場合
 1. `root/本/chapter_x`ディレクトリを作成する
 2. `root/本/chapter_x/名前.md`を作成する
 3. メモる
-4. commit messageは`done chapter_x` or `wip chapter_x`
-5. pushする
